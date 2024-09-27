@@ -317,7 +317,7 @@ plt.show()
 
 **Interpretação:**
 
-- Categorias como **mobile** e **cleantech** tendem a receber maiores financiamentos médios.
+- Categorias como **mobile** e **transportation** tendem a receber maiores financiamentos médios.
 - Setores mais tecnológicos podem exigir investimentos iniciais mais elevados.
 
 ---
