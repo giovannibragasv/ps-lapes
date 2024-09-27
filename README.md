@@ -167,8 +167,8 @@ count_status = df['status'].value_counts()
 
 - **Resultado:**
 
-  - Adquiridas: *quantidade*
-  - Fechadas: *quantidade*
+  - Adquiridas: *597*
+  - Fechadas: *326*
 
 ### Tipos de Investimento
 
