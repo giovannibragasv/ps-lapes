@@ -197,7 +197,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src='assets/img1.png' alt='Gráfico 1'>
+<img src='assets/img2.png' alt='Gráfico 2'>
 
 **Interpretação:**
 
@@ -226,7 +226,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src='assets/img2.png' alt='Gráfico 2'>
+<img src='assets/img3.png' alt='Gráfico 3'>
 
 **Interpretação:**
 
@@ -259,7 +259,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src='assets/img3.png' alt='Gráfico 3'>
+<img src='assets/img4.png' alt='Gráfico 4'>
 
 **Interpretação:**
 
@@ -286,7 +286,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src='assets/img4.png' alt='Gráfico 4'>
+<img src='assets/img5.png' alt='Gráfico 5'>
 
 **Interpretação:**
 
@@ -313,7 +313,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src='assets/img5.png' alt='Gráfico 5'>
+<img src="assets/img6.png" alt="Gráfico 6"/>
 
 **Interpretação:**
 
@@ -454,7 +454,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="assets/img6.png" alt="Gráfico 6"/>
+<img src="assets/img7.png" alt="Gráfico 7"/>
 
 **Interpretação Geral:**
 
