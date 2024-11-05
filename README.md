@@ -219,7 +219,6 @@ plt.show()
 **Interpretação:**
 
 - **São Francisco** lidera em número de startups adquiridas, seguido por **Nova Iorque** e **Mountain View**.
-- Polos tecnológicos como São Francisco e Nova Iorque possuem maior taxa de aquisição.
 - A região do Vale do Silício apresenta uma significativa concentração de aquisições.
 
 ### Categorias de Startups
