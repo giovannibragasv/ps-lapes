@@ -307,8 +307,6 @@ plt.show()
 - Categorias como **mobile** e **transportation** tendem a receber maiores financiamentos médios.
 - Setores mais tecnológicos podem exigir investimentos iniciais mais elevados.
 
----
-
 ## Modelagem Preditiva
 
 Foi construído um modelo de **Random Forest** para prever o status das startups com base em características selecionadas.
